@@ -1,2 +1,14 @@
-# Isvarya12-mern-stack-pizza-delivery
-MERN stack pizza delivery application that allows users and admin to order pizza, add pizza and STRIPE API integration
+# SHEY_PIZZA
+
+[Link to the Website](https://sheypizzza.herokuapp.com/)
+
+
+# Payment Details
+  CardNumber: 4242 4242 4242 4242
+  Exp Date  : 12/23
+  CVV       : 123
+  
+# Admin Details
+  email     : john@example.com
+  password  : 123456
+  

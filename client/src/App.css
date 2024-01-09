@@ -1,0 +1,80 @@
+body,
+html {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+.nav-link {
+  color: black;
+}
+.navbar-brand {
+  color: black;
+}
+
+h1 {
+  font-size: 20px !important;
+}
+
+.flex-container {
+  display: flex !important;
+}
+
+.btn {
+  background-color: red !important;
+  color: white !important;
+  box-shadow: none !important;
+}
+
+select {
+  box-shadow: none !important;
+  border-color: black !important;
+}
+
+input {
+  margin-top: 10px !important;
+  box-shadow: none;
+}
+
+.adminfunctions {
+  padding: 10px;
+  background-color: rgb(4, 4, 62);
+}
+
+.adminfunctions li {
+  list-style-type: none;
+  display: inline;
+  color: white;
+}
+
+.adminfunctions li a {
+  color: white;
+  padding: 20px;
+  text-decoration: none;
+}
+
+td,
+th,
+tr {
+  text-align: left;
+}
+
+.table {
+  display: block !important;
+  overflow-x: auto !important;
+  width: 100% !important;
+}
+
+.login {
+  background-image: url('./images//bg1.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
+}
+
+.register {
+  background-image: url('./images//bg2.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
+}
